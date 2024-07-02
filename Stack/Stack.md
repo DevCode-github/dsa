@@ -1,3 +1,4 @@
+# Stack
 It is a linear data structure that follows a specific order in which operations are performed.
 The order may be **LIFO**(last in first out) or **FILO**(first in last out)
 
