@@ -2,7 +2,6 @@
 It is a linear data structure that stores data in nodes, that are connected by pointers. Unlike array linked list are not stored in contiguous memory location.
 
 ### Characteristics  (vs)  [[Array]]
-
 - **Data Structure:** Non-contiguous
 - **Memory Allocation:** Dynamic
 - **Insertion/Deletion:** Efficient
