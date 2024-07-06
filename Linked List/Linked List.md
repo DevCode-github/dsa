@@ -1,11 +1,11 @@
 ## Linked list
 It is a linear data structure that stores data in nodes, that are connected by pointers. Unlike array linked list are not stored in contiguous memory location.
 
-### Characteristics  (vs)  [[Array#Characteristics]]
+### Characteristics  (vs)  [[Array]]
 
-- ***Data Structure:** Non-contiguous
+- **Data Structure:** Non-contiguous
 - **Memory Allocation:** Dynamic
-- ***Insertion/Deletion:** Efficient
+- **Insertion/Deletion:** Efficient
 - ***Access:*** Sequential
 
 ### Operations

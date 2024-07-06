@@ -1,7 +1,7 @@
 ## Array
 Its is a linear data structure that stores a collection of elements of same data type. The elements are stored in contiguous memory location that have constant access time.
 
-### Characteristics (vs) [[Linked List#Characteristics]]
+### Characteristics (vs) [[Linked List]]
 
 - **Data Structure:** Contiguous
 - **Memory Allocation:** Static
