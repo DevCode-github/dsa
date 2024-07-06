@@ -7,7 +7,7 @@ It is a process or set of well defined instructions that is used to solve a prob
 ### Data structures
 1. Array
 2. String
-3. Linked list
+3. Linked list [[Linked List]]
 4. Matrix/Grid
 5. Stack [[Stack]]
 6. 
