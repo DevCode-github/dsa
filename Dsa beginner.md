@@ -13,7 +13,7 @@ Data Structure are divided into two types:
 	2. String
 	3.  [[Linked List]]
 	5. [[Stack]]
-	6. Queue
+	6. [[Queue]]
 - Non-linear DS
 	  1. Tree
 		  1. Heap / Completed Binary Tree
